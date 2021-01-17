@@ -1,0 +1,1 @@
+export const baseUrl = 'https://my-json-server.typicode.com/LWilliams1568/JSONNucamp';
